@@ -8,6 +8,7 @@ import pandas as pd
 from pytesseract import Output
 from pdf2image import convert_from_path
 
+
 # Configuration Tesseract (adapte si besoin sous Windows)
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
