@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+resultats/
+appels_offres_telecharges/
+.streamlit/secrets.toml
+*.pdf
+*.docx
+temp_*
